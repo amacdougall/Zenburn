@@ -245,6 +245,11 @@ hi VisualNOS       guifg=#333333 guibg=#f18c96 gui=bold,underline
 hi WarningMsg      guifg=#ffffff guibg=#333333 gui=bold
 hi WildMenu        guibg=#2c302d guifg=#cbecd0 gui=underline
 
+" added 2011-08-08 Alan MacDougall (alan@paperlesspost.com)
+highlight as3docComment guifg=#AABFAA gui=italic
+highlight as3docCommentKeyword guifg=#AABFAA gui=bold
+highlight as3wingComment guifg=#999999 gui=italic
+
 hi SpellBad   guisp=#bc6c4c guifg=#dc8c6c
 hi SpellCap   guisp=#6c6c9c guifg=#8c8cbc
 hi SpellRare  guisp=#bc6c9c guifg=#bc8cbc
