@@ -239,7 +239,7 @@ hi Title           guifg=#efefef gui=bold
 hi Todo            guifg=#dfdfdf guibg=bg gui=bold
 hi Typedef         guifg=#dfe4cf gui=bold
 hi Type            guifg=#dfdfbf gui=bold
-hi Underlined      guifg=#dcdccc gui=underline
+hi Underlined      guifg=#dcdccc gui=none
 hi VertSplit       guifg=#2e3330 guibg=#688060
 hi VisualNOS       guifg=#333333 guibg=#f18c96 gui=bold
 hi WarningMsg      guifg=#ffffff guibg=#333333 gui=bold
